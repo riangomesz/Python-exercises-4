@@ -1,4 +1,5 @@
 # Código que estima a qtde de batimentos que o coração da pessoa teve ao decorrer de toda sua vida
+# até o momento
 
 print("Calculador de batimentos do Coração")
 bpm = 65
