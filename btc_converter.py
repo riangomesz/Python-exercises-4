@@ -1,4 +1,4 @@
-# Coversor de BITCOIN
+# Coversor de BITCOIN que pega em reais e passa para bitcoin
 
 
 import requests
