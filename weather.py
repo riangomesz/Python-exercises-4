@@ -1,4 +1,4 @@
-# Código que #
+# Código que retorna ao usuário  #
 
 import requests
 
