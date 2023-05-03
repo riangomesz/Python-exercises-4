@@ -1,3 +1,5 @@
+# Código que representa um jogo de advinhar o número #
+
 import random
 
 def main():
