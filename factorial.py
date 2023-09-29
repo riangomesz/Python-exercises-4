@@ -1,3 +1,5 @@
+// Algoritmo que calcula o fatorial de n //
+
 def fatorial(n):
     if n == 0:
         return 1
